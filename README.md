@@ -9,17 +9,22 @@
 
 ## 기본화면구성
 
-![출력화면]()
+<img src="screenshot/1.png" width="400">  
+<br/>
 
 ## 필터링
 
-![filter by pants]()
+☝️pants로 필터 (바지버튼클릭)  
+<img src="screenshot/2.png" width="400">
 
-## ![filter by yellow]()
+✌️Yellow로 필터 (옐로우버튼클릭)  
+<img src="screenshot/3.png" width="400">
+
+---
 
 ### 출처
 
-## [드림코딩 by 엘리](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w)
+youtube : [드림코딩 by 엘리](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w)
 
 ### 감상
 
