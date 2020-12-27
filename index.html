@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="src/main.js" defer></script>
+    <title>JS - miniGame</title>
+  </head>
+  <body>
+    <!-- logo -->
+    <img src="imgs/logo.png" alt="logo" class="logo" />
+
+    <!-- buttons -->
+    <section class="buttons">
+      <button class="btn">
+        <img
+          src="imgs/blue_t.png"
+          alt="tshirt"
+          data-key="type"
+          data-value="tshirt"
+        />
+      </button>
+      <button class="btn">
+        <img
+          src="imgs/blue_p.png"
+          alt="pants"
+          data-key="type"
+          data-value="pants"
+        />
+      </button>
+      <button class="btn">
+        <img
+          src="imgs/blue_s.png"
+          alt="skirt"
+          data-key="type"
+          data-value="skirt"
+        />
+      </button>
+      <button class="btn colorBtn blue" data-key="color" data-value="blue">
+        Blue
+      </button>
+      <button class="btn colorBtn yellow" data-key="color" data-value="yellow">
+        Yellow
+      </button>
+      <button class="btn colorBtn pink" data-key="color" data-value="pink">
+        Pink
+      </button>
+    </section>
+
+    <!-- items -->
+    <ul class="items"></ul>
+  </body>
+</html>
